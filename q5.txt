@@ -1,0 +1,12 @@
+
+def binary(n):
+	for i in n:
+                                                                   
+		if i=='0':
+                	output="False"
+                        break
+                else:
+                       output="True"
+        print(output)
+number=str(input("enter any character"))
+print(binary(number))

@@ -1,0 +1,6 @@
+#LUCKY DRAW GAME
+The game is simple. You will given one of the number to chose between 1-1000.
+Enter the number if matches with the lucky draw then the customer will get four
+movie ticket free for next four chances whenever he/she comes.The one winning this 
+would be the lucky one.
+All the best to all who might be reading this.  

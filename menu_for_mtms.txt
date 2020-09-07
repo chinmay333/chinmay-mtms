@@ -1,0 +1,9 @@
+MENU FOR MTMS:
+
+1).For registering a new Multiplex.
+2).Booking for the show.
+3).Knowing about the movie.
+4).Registering the new release.
+5).Offers
+6).Extra charge
+7).Game for Free Movie Ticket
